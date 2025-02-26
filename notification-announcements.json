@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1415,
+    "date": "2019-05-11T17:40:56",
+    "date_gmt": "2019-05-11T16:40:56",
+    "guid": {
+      "rendered": "https://wise-web.org/?p=1415"
+    },
+    "modified": "2025-02-11T17:06:47",
+    "modified_gmt": "2025-02-11T17:06:47",
+    "slug": "announcement",
+    "status": "publish",
+    "type": "post",
+    "link": "https://wise-web.org/2019/05/11/announcement/",
+    "title": {
+      "rendered": "Announcements"
+    },
+    "content": {
+      "rendered": "\n\u003Cp\u003E\u003Cstrong\u003ESirah of the Prophet (SAW)\u003Cbr\u003E\u003Cem\u003EFrom Birth to Prophethood\u003C/em\u003E\u003C/strong\u003E\u003Cbr\u003EFridays 7pm by Refi Shafi\u003Cbr\u003E@WISE Masjid as-Salaam\u003C/p\u003E\n\n\n\n\u003Cp\u003E\u003Cstrong\u003EUnderstand the Qur&#8217;an\u003Cbr\u003E\u003Cem\u003EReading whole Qur&#8217;an &amp; Simple Tafsir\u003Cbr\u003E\u003C/em\u003E\u003C/strong\u003EThursdays after Maghrib Prayer\u003Cbr\u003Eby various teachers\u003Cbr\u003E@WISE Masjid as-Salaam\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003ESirah of the Prophet (SAW)From Birth to ProphethoodFridays 7pm by Refi Shafi@WISE Masjid as-Salaam Understand the Qur&#8217;anReading whole Qur&#8217;an &amp; Simple TafsirThursdays after Maghrib Prayerby various teachers@WISE Masjid as-Salaam\u003C/p\u003E\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_monsterinsights_skip_tracking": false,
+      "_monsterinsights_sitenote_active": false,
+      "_monsterinsights_sitenote_note": "",
+      "_monsterinsights_sitenote_category": 0,
+      "footnotes": ""
+    },
+    "categories": [9],
+    "tags": [],
+    "class_list": [
+      "post-1415",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-app-notices"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://wise-web.org/wp-json/wp/v2/posts/1415",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://wise-web.org/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://wise-web.org/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://wise-web.org/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://wise-web.org/wp-json/wp/v2/comments?post=1415"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 5,
+          "href": "https://wise-web.org/wp-json/wp/v2/posts/1415/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 4557,
+          "href": "https://wise-web.org/wp-json/wp/v2/posts/1415/revisions/4557"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://wise-web.org/wp-json/wp/v2/media?parent=1415"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://wise-web.org/wp-json/wp/v2/categories?post=1415"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://wise-web.org/wp-json/wp/v2/tags?post=1415"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1386,
+    "date": "2019-04-25T15:56:42",
+    "date_gmt": "2019-04-25T14:56:42",
+    "guid": {
+      "rendered": "https://wise-web.org/?p=1386"
+    },
+    "modified": "2025-01-27T16:18:09",
+    "modified_gmt": "2025-01-27T16:18:09",
+    "slug": "mother-earth",
+    "status": "publish",
+    "type": "post",
+    "link": "https://wise-web.org/2019/04/25/mother-earth/",
+    "title": {
+      "rendered": "Reminders"
+    },
+    "content": {
+      "rendered": "\u003Cp\u003EAli (RA) said, ‘\u003Cspan class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"\u003EPeople, rely on Allah and place your trust in Him. \u003C/span\u003E\u003Cspan class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"\u003EHe will be enough \u003C/span\u003E\u003Cspan class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"\u003Efor you.\u003C/span\u003E’ (Ibn Abi al-Dunya)\u003C/p\u003E\n\u003Cp\u003E\u003C!-- /wp:paragraph --\u003E\u003C/p\u003E\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "\u003Cp\u003EAli (RA) said, ‘People, rely on Allah and place your trust in Him. He will be enough for you.’ (Ibn Abi al-Dunya)\u003C/p\u003E\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_monsterinsights_skip_tracking": false,
+      "_monsterinsights_sitenote_active": false,
+      "_monsterinsights_sitenote_note": "",
+      "_monsterinsights_sitenote_category": 0,
+      "footnotes": ""
+    },
+    "categories": [9],
+    "tags": [],
+    "class_list": [
+      "post-1386",
+      "post",
+      "type-post",
+      "status-publish",
+      "format-standard",
+      "hentry",
+      "category-app-notices"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://wise-web.org/wp-json/wp/v2/posts/1386",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://wise-web.org/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://wise-web.org/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://wise-web.org/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://wise-web.org/wp-json/wp/v2/comments?post=1386"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 5,
+          "href": "https://wise-web.org/wp-json/wp/v2/posts/1386/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 4553,
+          "href": "https://wise-web.org/wp-json/wp/v2/posts/1386/revisions/4553"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://wise-web.org/wp-json/wp/v2/media?parent=1386"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://wise-web.org/wp-json/wp/v2/categories?post=1386"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://wise-web.org/wp-json/wp/v2/tags?post=1386"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
