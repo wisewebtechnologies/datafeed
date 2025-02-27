@@ -1,0 +1,105 @@
+{
+  "id": 2863,
+  "date": "2020-11-07T22:24:05",
+  "date_gmt": "2020-11-07T22:24:05",
+  "guid": {
+    "rendered": "https://wise-web.org/?page_id=2863"
+  },
+  "modified": "2025-01-27T16:12:04",
+  "modified_gmt": "2025-01-27T16:12:04",
+  "slug": "quran",
+  "status": "publish",
+  "type": "page",
+  "link": "https://wise-web.org/quran/",
+  "title": {
+    "rendered": "Qur&#8217;an"
+  },
+  "content": {
+    "rendered": "\n\u003Ch2 class=\"wp-block-heading has-text-align-center has-vivid-purple-color has-text-color\" id=\"ق-ل-ل-ن-ي-ص-يب-ن-ا-إ-ل-ا-م-ا-ك-ت-ب-الل-ه-ل-ن-ا-ه-و-م-و-ل-ان-ا-و-ع-ل-ى-الل-ه-ف-ل-ي-ت-و-ك-ل-ال-م-ؤ-م-ن-ون\"\u003Eقُلْ أَغَيْرَ اللَّهِ أَبْغِي رَبًّا وَهُوَ رَبُّ كُلِّ شَيْءٍ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ\u003C/h2\u003E\n\n\n\n\u003Cp\u003ESay, “Should I seek a lord other than Allah while He is the Lord of everything?” No one will reap except what they sow. [Q6:164]\u003C/p\u003E\n\n\n\n\u003Cp\u003E\u003C/p\u003E\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "\u003Cp\u003Eقُلْ أَغَيْرَ اللَّهِ أَبْغِي رَبًّا وَهُوَ رَبُّ كُلِّ شَيْءٍ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ Say, “Should I seek a lord other than Allah while He is the Lord of everything?” No one will reap except what they sow. [Q6:164]\u003C/p\u003E\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_monsterinsights_skip_tracking": false,
+    "_monsterinsights_sitenote_active": false,
+    "_monsterinsights_sitenote_note": "",
+    "_monsterinsights_sitenote_category": 0,
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-2863",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry",
+    "post"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://wise-web.org/wp-json/wp/v2/pages/2863",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://wise-web.org/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://wise-web.org/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://wise-web.org/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://wise-web.org/wp-json/wp/v2/comments?post=2863"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://wise-web.org/wp-json/wp/v2/pages/2863/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 4548,
+        "href": "https://wise-web.org/wp-json/wp/v2/pages/2863/revisions/4548"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://wise-web.org/wp-json/wp/v2/media?parent=2863"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}
