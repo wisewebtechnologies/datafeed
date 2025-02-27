@@ -1,0 +1,105 @@
+{
+  "id": 2865,
+  "date": "2020-11-07T22:29:12",
+  "date_gmt": "2020-11-07T22:29:12",
+  "guid": {
+    "rendered": "https://wise-web.org/?page_id=2865"
+  },
+  "modified": "2025-01-27T16:13:27",
+  "modified_gmt": "2025-01-27T16:13:27",
+  "slug": "dhikr",
+  "status": "publish",
+  "type": "page",
+  "link": "https://wise-web.org/dhikr/",
+  "title": {
+    "rendered": "Dhikr."
+  },
+  "content": {
+    "rendered": "\n\u003Cp\u003EThe Prophet (SAW) said, &#8220;Whoever turns a woman against her husband is not one of us.&#8221; (Ahmad #9157)\u003C/p\u003E\n\n\n\n\u003Cp\u003E\u003C/p\u003E\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "\u003Cp\u003EThe Prophet (SAW) said, &#8220;Whoever turns a woman against her husband is not one of us.&#8221; (Ahmad #9157)\u003C/p\u003E\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "_monsterinsights_skip_tracking": false,
+    "_monsterinsights_sitenote_active": false,
+    "_monsterinsights_sitenote_note": "",
+    "_monsterinsights_sitenote_category": 0,
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-2865",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry",
+    "post"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://wise-web.org/wp-json/wp/v2/pages/2865",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://wise-web.org/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://wise-web.org/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://wise-web.org/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://wise-web.org/wp-json/wp/v2/comments?post=2865"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://wise-web.org/wp-json/wp/v2/pages/2865/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 4550,
+        "href": "https://wise-web.org/wp-json/wp/v2/pages/2865/revisions/4550"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://wise-web.org/wp-json/wp/v2/media?parent=2865"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}
