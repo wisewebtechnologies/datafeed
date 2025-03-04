@@ -24,88 +24,35 @@
       "rendered": "Upcoming Events"
     },
     "content": {
-      "rendered": "<p><strong><em>Open Iftar for non-Muslims</em></strong><br>Sat 15th Mar 4:45<br>@WISE Masjid as-Salam<br>Please invite your non-Muslim neighbours and colleagues!</p><p><strong><em>Community Lecture & Iftar</em></strong><br>Sat 8th Mar 5pm<br>Sat 22nd Mar 5:15pm<br>@WISE Masjid as-Salam</p>",
-      "protected": false
+      "rendered": "<p><strong><em>Open Iftar for non-Muslims</em></strong><br>Sat 15th Mar 4:45<br>@WISE Masjid as-Salam<br>Please invite your non-Muslim neighbours and colleagues!</p><p><strong><em>Community Lecture & Iftar</em></strong><br>Sat 8th Mar 5pm<br>Sat 22nd Mar 5:15pm<br>@WISE Masjid as-Salam</p>"
     }
   },
   {
-    "id": 1414,
     "date": "2025-02-27T17:40:56",
     "date_gmt": "2025-02-27T16:40:56",
-    "guid": {
-      "rendered": ""
-    },
     "modified": "2025-02-27T17:06:47",
     "modified_gmt": "2025-02-27T17:06:47",
     "slug": "announcement",
-    "status": "publish",
-    "type": "post",
     "link": "https://wise-web.org/2019/05/11/announcement/",
     "title": {
       "rendered": "Jumu'ah Times"
     },
     "content": {
-      "rendered": "<p><strong>WISE MASJID AS-SALAAM</strong><br>12:45 Khutba<br>13:15 Salah<br>Khatib: TBA<br></p><p><strong><em>THE HIVE</em></strong><br>13:00 Khutba<br>13:20 Salah<br>Khatib: TBA<br></p>",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "",
-      "protected": false
-    },
-    "author": 2,
-    "featured_media": 0,
-    "comment_status": "closed",
-    "ping_status": "open",
-    "sticky": false,
-    "template": "",
-    "format": "standard",
-    "meta": {
-    },
-    "categories": [9],
-    "tags": [],
-    "class_list": [
-    ],
-    "_links": {
+      "rendered": "<p><strong>WISE MASJID AS-SALAAM</strong><br>12:45 Khutba<br>13:15 Salah<br>Khatib: TBA<br></p><p><strong><em>THE HIVE</em></strong><br>13:00 Khutba<br>13:20 Salah<br>Khatib: TBA<br></p>"
     }
   },
   {
-    "id": 1386,
     "date": "2019-04-25T15:56:42",
     "date_gmt": "2019-04-25T14:56:42",
-    "guid": {
-      "rendered": "https://wise-web.org/?p=1386"
-    },
     "modified": "2025-01-27T16:18:09",
     "modified_gmt": "2025-01-27T16:18:09",
     "slug": "mother-earth",
-    "status": "publish",
-    "type": "post",
     "link": "https://wise-web.org/2019/04/25/mother-earth/",
     "title": {
       "rendered": "Reminders"
     },
     "content": {
-      "rendered": "\u003Cp\u003EAli (RA) said, ‘\u003Cspan class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"\u003EPeople, rely on Allah and place your trust in Him. \u003C/span\u003E\u003Cspan class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"\u003EHe will be enough \u003C/span\u003E\u003Cspan class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"\u003Efor you.\u003C/span\u003E’ (Ibn Abi al-Dunya)\u003C/p\u003E\n\u003Cp\u003E\u003C!-- /wp:paragraph --\u003E\u003C/p\u003E\n",
-      "protected": false
-    },
-    "excerpt": {
-      "rendered": "\u003Cp\u003EAli (RA) said, ‘People, rely on Allah and place your trust in Him. He will be enough for you.’ (Ibn Abi al-Dunya)\u003C/p\u003E\n",
-      "protected": false
-    },
-    "author": 2,
-    "featured_media": 0,
-    "comment_status": "closed",
-    "ping_status": "open",
-    "sticky": false,
-    "template": "",
-    "format": "standard",
-    "meta": {
-    },
-    "categories": [9],
-    "tags": [],
-    "class_list": [
-    ],
-    "_links": {
+      "rendered": "\u003Cp\u003EAli (RA) said, ‘\u003Cspan class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"\u003EPeople, rely on Allah and place your trust in Him. \u003C/span\u003E\u003Cspan class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"\u003EHe will be enough \u003C/span\u003E\u003Cspan class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"\u003Efor you.\u003C/span\u003E’ (Ibn Abi al-Dunya)\u003C/p\u003E\n\u003Cp\u003E\u003C!-- /wp:paragraph --\u003E\u003C/p\u003E\n"
     }
   }
 ]
