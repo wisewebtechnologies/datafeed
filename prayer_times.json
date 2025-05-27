@@ -1,23 +1,6 @@
 {
   "prayerTimes": [
     {
-      "GregDate": "26/05/2025",
-      "Fajr": "02:49:00",
-      "FajrJam": "03:30:00",
-      "Sunrise": "04:57:00",
-      "Dhuhr": "13:03:00",
-      "DhuhrJam": "13:30:00",
-      "Asr": "17:18:00",
-      "AsrJam": "18:00:00",
-      "Maghrib": "21:06:00",
-      "MaghribJam": "21:11:00",
-      "Ishaa": "22:43:00",
-      "IshaaJam": "23:00:00",
-      "HijriDate": "28",
-      "HijriMonth": "Dhu al-Qa'dah",
-      "HijriYear": "1446"
-    },
-    {
       "GregDate": "27/05/2025",
       "Fajr": "02:47:00",
       "FajrJam": "03:30:00",
@@ -47,8 +30,8 @@
       "MaghribJam": "21:13:00",
       "Ishaa": "22:46:00",
       "IshaaJam": "23:00:00",
-      "HijriDate": "30",
-      "HijriMonth": "Dhu al-Qa'dah",
+      "HijriDate": "1",
+      "HijriMonth": "Dhu al-Hijjah",
       "HijriYear": "1446"
     },
     {
@@ -64,7 +47,7 @@
       "MaghribJam": "21:14:00",
       "Ishaa": "22:48:00",
       "IshaaJam": "23:00:00",
-      "HijriDate": "1",
+      "HijriDate": "2",
       "HijriMonth": "Dhu al-Hijjah",
       "HijriYear": "1446"
     },
@@ -81,7 +64,7 @@
       "MaghribJam": "21:15:00",
       "Ishaa": "22:49:00",
       "IshaaJam": "23:00:00",
-      "HijriDate": "2",
+      "HijriDate": "3",
       "HijriMonth": "Dhu al-Hijjah",
       "HijriYear": "1446"
     },
@@ -98,7 +81,7 @@
       "MaghribJam": "21:16:00",
       "Ishaa": "22:50:00",
       "IshaaJam": "23:00:00",
-      "HijriDate": "3",
+      "HijriDate": "4",
       "HijriMonth": "Dhu al-Hijjah",
       "HijriYear": "1446"
     }
