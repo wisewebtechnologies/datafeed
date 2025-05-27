@@ -1,5 +1,18 @@
 [
-  
+    {
+    "date": "2025-02-27T17:40:56",
+    "date_gmt": "2025-02-27T16:40:56",
+    "modified": "2025-02-27T17:06:47",
+    "modified_gmt": "2025-02-27T17:06:47",
+    "slug": "announcement",
+    "link": "https://wise-web.org/2019/05/11/announcement/",
+    "title": {
+      "rendered": "Dhu'l-Hijja"
+    },
+    "content": {
+      "rendered": "<p><strong>Dhu'l-Hijja</strong><br>Eid will be on Fri 6th June in shā Allāh.<br>May Allah grant us the ability to reap the benefits of these blessed days.<br>"
+    }
+  },
   {
     "date": "2025-02-27T17:40:56",
     "date_gmt": "2025-02-27T16:40:56",
