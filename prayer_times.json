@@ -1,20 +1,20 @@
 {
   "prayerTimes": [
     {
-      "GregDate": "03/08/2025",
-      "Fajr": "03:37:00",
-      "FajrJam": "04:30:00",
-      "Sunrise": "05:30:00",
-      "Dhuhr": "13:11:00",
+      "GregDate": "04/09/2025",
+      "Fajr": "04:43:00",
+      "FajrJam": "05:30:00",
+      "Sunrise": "06:22:00",
+      "Dhuhr": "13:04:00",
       "DhuhrJam": "13:30:00",
-      "Asr": "17:18:00",
+      "Asr": "16:42:00",
       "AsrJam": "17:30:00",
-      "Maghrib": "20:50:00",
-      "MaghribJam": "20:55:00",
-      "Ishaa": "22:13:00",
-      "IshaaJam": "22:15:00",
-      "HijriDate": "9",
-      "HijriMonth": "Safar",
+      "Maghrib": "19:45:00",
+      "MaghribJam": "19:50:00",
+      "Ishaa": "21:01:00",
+      "IshaaJam": "21:15:00",
+      "HijriDate": "12",
+      "HijriMonth": "Rabī al-Awwal",
       "HijriYear": "1447"
     },
     {
