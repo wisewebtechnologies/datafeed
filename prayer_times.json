@@ -18,6 +18,23 @@
       "HijriYear": "1447"
     },
     {
+      "GregDate": "05/09/2025",
+      "Fajr": "04:45:00",
+      "FajrJam": "05:30:00",
+      "Sunrise": "06:24:00",
+      "Dhuhr": "13:04:00",
+      "DhuhrJam": "13:30:00",
+      "Asr": "16:41:00",
+      "AsrJam": "17:30:00",
+      "Maghrib": "19:42:00",
+      "MaghribJam": "19:48:00",
+      "Ishaa": "20:58:00",
+      "IshaaJam": "21:00:00",
+      "HijriDate": "13",
+      "HijriMonth": "Rabī al-Awwal",
+      "HijriYear": "1447"
+    },
+    {
       "GregDate": "04/08/2025",
       "Fajr": "03:39:00",
       "FajrJam": "04:30:00",
@@ -31,23 +48,6 @@
       "Ishaa": "22:11:00",
       "IshaaJam": "22:15:00",
       "HijriDate": "10",
-      "HijriMonth": "Safar",
-      "HijriYear": "1447"
-    },
-    {
-      "GregDate": "05/08/2025",
-      "Fajr": "03:41:00",
-      "FajrJam": "04:30:00",
-      "Sunrise": "05:34:00",
-      "Dhuhr": "13:11:00",
-      "DhuhrJam": "13:30:00",
-      "Asr": "17:16:00",
-      "AsrJam": "17:30:00",
-      "Maghrib": "20:47:00",
-      "MaghribJam": "20:52:00",
-      "Ishaa": "22:08:00",
-      "IshaaJam": "22:15:00",
-      "HijriDate": "11",
       "HijriMonth": "Safar",
       "HijriYear": "1447"
     },
