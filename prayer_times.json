@@ -1,24 +1,7 @@
 {
   "prayerTimes": [
-        {
-      "GregDate": "29/03/2026",
-      "Fajr": "05:07:00",
-      "FajrJam": "05:30:00",
-      "Sunrise": "06:46:00",
-      "Dhuhr": "13:10:00",
-      "DhuhrJam": "13:30:00",
-      "Asr": "16:37:00",
-      "AsrJam": "17:00:00",
-      "Maghrib": "19:32:00",
-      "MaghribJam": "19:37:00",
-      "Ishaa": "20:45:00",
-      "IshaaJam": "21:00:00",
-      "HijriDate": "10",
-      "HijriMonth": "Shawal",
-      "HijriYear": "1447"
-    },
     {
-      "GregDate": "30/03/2025",
+      "GregDate": "30/03/2026",
       "Fajr": "05:05:00",
       "FajrJam": "05:30:00",
       "Sunrise": "06:43:00",
@@ -35,7 +18,7 @@
       "HijriYear": "1447"
     },
     {
-      "GregDate": "31/03/2025",
+      "GregDate": "31/03/2026",
       "Fajr": "05:02:00",
       "FajrJam": "05:30:00",
       "Sunrise": "06:41:00",
@@ -52,7 +35,7 @@
       "HijriYear": "1447"
     },
     {
-      "GregDate": "01/04/2025",
+      "GregDate": "01/04/2026",
       "Fajr": "05:01:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:39:00",
@@ -69,7 +52,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "02/04/2025",
+      "GregDate": "02/04/2026",
       "Fajr": "04:59:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:37:00",
@@ -86,7 +69,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "03/04/2025",
+      "GregDate": "03/04/2026",
       "Fajr": "04:57:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:34:00",
@@ -103,7 +86,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "04/04/2025",
+      "GregDate": "04/04/2026",
       "Fajr": "04:55:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:32:00",
@@ -120,7 +103,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "05/04/2025",
+      "GregDate": "05/04/2026",
       "Fajr": "04:53:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:30:00",
@@ -137,7 +120,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "06/04/2025",
+      "GregDate": "06/04/2026",
       "Fajr": "04:50:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:27:00",
@@ -154,7 +137,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "07/04/2025",
+      "GregDate": "07/04/2026",
       "Fajr": "04:47:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:25:00",
@@ -171,7 +154,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "08/04/2025",
+      "GregDate": "08/04/2026",
       "Fajr": "04:44:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:23:00",
@@ -188,7 +171,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "09/04/2025",
+      "GregDate": "09/04/2026",
       "Fajr": "04:42:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:21:00",
@@ -205,7 +188,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "10/04/2025",
+      "GregDate": "10/04/2026",
       "Fajr": "04:39:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:19:00",
@@ -222,7 +205,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "11/04/2025",
+      "GregDate": "11/04/2026",
       "Fajr": "04:36:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:16:00",
@@ -239,7 +222,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "12/04/2025",
+      "GregDate": "12/04/2026",
       "Fajr": "04:33:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:14:00",
@@ -256,7 +239,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "13/04/2025",
+      "GregDate": "13/04/2026",
       "Fajr": "04:31:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:12:00",
@@ -273,7 +256,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "14/04/2025",
+      "GregDate": "14/04/2026",
       "Fajr": "04:28:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:10:00",
@@ -290,7 +273,7 @@
       "HijriYear": ""
     },
     {
-      "GregDate": "15/04/2025",
+      "GregDate": "15/04/2026",
       "Fajr": "04:25:00",
       "FajrJam": "05:00:00",
       "Sunrise": "06:08:00",
